@@ -1,8 +1,10 @@
-package com.example.test_btmoi;
+package com.example.test_btmoi.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.test_btmoi.R;
 
 public class RegistrationActivity extends AppCompatActivity {
 
